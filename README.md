@@ -38,7 +38,7 @@
 
 ### 🏆 Fun Facts About Me:
 - ✉️ I love mentoring young women in tech and promoting inclusivity in software engineering.  
-- 🌍 I'm from **Pokhara, Nepal**, but I'm making waves in tech globally.  
+- 🌍 I'm making waves in tech globally.  
 - ✨ Constantly inspired to build innovative solutions that make a difference.  
 
 ---
