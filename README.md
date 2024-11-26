@@ -45,19 +45,19 @@
 
 ### 🌟 Featured Projects:
 #### **ChronoHelix**  
-📌 A smart time management and productivity tracker built to help users optimize their daily schedules effectively.  
-- **Tech Stack:** ReactJS, Node.js, MongoDB  
-- [View Project](#)  
+AI-powered tool for reconstructing ancient DNA and repairing fragments, offering insights into human evolution and migration.  
+- **Tech Stack:** Python, PyTorch, Graph Neural Networks  
+- [View Project](https://github.com/aastikab/ChronoHelix)  
 
 #### **InstaResume**  
 📌 An AI-powered platform to generate professional, tailored resumes and cover letters instantly.  
-- **Tech Stack:** Python, Flask, OpenAI GPT, Puppeteer  
-- [View Project](#)  
+- **Tech Stack:** Python, Flask, OpenAI GPT, ReactJS, Node.js
+- [View Project](https://github.com/aastikab/InstaResume)  
 
 #### **Eco-nnect**  
-📌 A smart utility management system focused on environmental sustainability and energy optimization.  
-- **Tech Stack:** Java, PostgreSQL, Spring Boot  
-- [View Project](#)  
+Web app simplifying sustainable living with actionable insights for eco-friendly choices.  
+- **Tech Stack:** ReactJS, Node.js, MongoDB  
+- [View Project](https://github.com/miyannishar/eco-nnect)  
 
 
 ---
