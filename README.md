@@ -4,9 +4,9 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently enhancing my skills in **Distributed Systems** and **AI-Powered Solutions**.  
+- 🌱 I’m currently enhancing my skills in **Machine Learning** and **AI-Powered Solutions**.  
 - 👩‍💻 Passionate about leveraging **Technology for Diversity and Inclusion**.  
-- ✨ Actively working on personal projects like **Dynamic Route Optimization** and **Payment Gateway Integration** to solve real-world problems.  
+- ✨ Actively working on personal projects like **ChronoHelix** and **InstaResume** to solve real-world problems.  
 - 🎓 Junior at Fisk University majoring in **Computer Science**.  
 
 ---
