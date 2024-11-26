@@ -1,5 +1,12 @@
 <h1 align="center"> Hi there 👋, I'm Aastika Banstola </h1>
-<h3 align="center"> 💻 Empowering innovation as a Woman in Tech and Aspiring Software Engineer 💡 </h3>
+<h3 align="center"> 💻 Empowering Women in Tech | Software Developer | Innovator 💡 </h3>
+
+
+---
+
+<p align="center">
+  <marquee behavior="scroll" direction="left">🚀 Women in Tech - Breaking Barriers, Building Solutions 🚀</marquee>
+</p>
 
 ---
 
