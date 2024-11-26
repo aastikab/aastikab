@@ -4,11 +4,8 @@
 
 ---
 
-<p align="center">
-  <marquee behavior="scroll" direction="left">🚀 Women in Tech - Breaking Barriers, Building Solutions 🚀</marquee>
-</p>
 
----
+
 
 ### 🚀 About Me
 - 🌱 I’m currently enhancing my skills in **Machine Learning** and **AI-Powered Solutions**.  
