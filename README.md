@@ -44,9 +44,21 @@
 ---
 
 ### 🌟 Featured Projects:
-- **🔗 [Dynamic Route Optimization](https://github.com/aastikab)**: Leveraging **DSA** for real-life route optimization challenges.  
-- **🔗 [Payment Gateway Integration](https://github.com/aastikab)**: Simplifying retail store transactions with **Python**, **React**, and **Stripe**.  
-- **🔗 [Distributed Storage System](https://github.com/aastikab)**: A robust file system built with **Java** for handling complex storage solutions.  
+#### **ChronoHelix**  
+📌 A smart time management and productivity tracker built to help users optimize their daily schedules effectively.  
+- **Tech Stack:** ReactJS, Node.js, MongoDB  
+- [View Project](#)  
+
+#### **InstaResume**  
+📌 An AI-powered platform to generate professional, tailored resumes and cover letters instantly.  
+- **Tech Stack:** Python, Flask, OpenAI GPT, Puppeteer  
+- [View Project](#)  
+
+#### **Eco-nnect**  
+📌 A smart utility management system focused on environmental sustainability and energy optimization.  
+- **Tech Stack:** Java, PostgreSQL, Spring Boot  
+- [View Project](#)  
+
 
 ---
 
