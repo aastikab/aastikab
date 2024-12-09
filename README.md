@@ -7,7 +7,7 @@
 
 
 
-### 🚀 About  Me
+### 🚀 About Me
 - 🌱 I’m currently enhancing my skills in **Machine Learning** and **AI-Powered Solutions**.  
 - 👩‍💻 Passionate about leveraging **Technology for Diversity and Inclusion**.  
 - ✨ Actively working on personal projects like **ChronoHelix** and **InstaResume** to solve real-world problems.  
