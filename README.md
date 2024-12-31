@@ -65,23 +65,26 @@ Web app simplifying sustainable living with actionable insights for eco-friendly
 
 <table align="center" style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
   <tr>
-    <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/785be6f0-ff4b-4db2-b314-b3ab1f5a88aa" alt="Kakashi Neovim GIF" style="display: block; margin: 0 auto;">
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/785be6f0-ff4b-4db2-b314-b3ab1f5a88aa" alt="Kakashi Neovim GIF" />
     </td>
-    <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastikab&layout=compact&langs_count=15&show_icons=true&locale=en&theme=radical" alt="Top Languages" style="width: 100%; max-width: 400px;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;">
-      <img src="https://streak-stats.demolab.com/?user=aastikab&theme=chartreuse-dark" alt="GitHub Streak" style="width: 100%; max-width: 800px;" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastikab&layout=compact&langs_count=15&show_icons=true&locale=en&theme=radical" alt="Top Languages" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aastikab&theme=2077" alt="Profile Details" style="width: 100%; max-width: 800px;" />
+    <td colspan="2" align="center">
+      <!-- Replace with a custom graphic or manually updated streak image -->
+      <img src="https://streak-stats.demolab.com/?user=aastikab&theme=chartreuse-dark" alt="GitHub Streak for 2024" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aastikab&theme=2077" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
+
 </table>
 
 
