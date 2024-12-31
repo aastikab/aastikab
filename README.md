@@ -66,23 +66,18 @@ Web app simplifying sustainable living with actionable insights for eco-friendly
 <table align="center" style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
   <tr>
     <td align="center">
-      <!-- Total Contributions Year to Date -->
-      <img src="https://github-readme-stats.vercel.app/api?username=aastikab&count_private=true&show_icons=true&hide_title=true&theme=radical" alt="Total Contributions Year-to-Date" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <!-- Longest Streak Ever -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aastikab&theme=chartreuse-dark&hide_border=true" alt="Longest Streak Ever" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <!-- Total Contributions for 2024 (Manual Count) -->
+      <!-- Total Contributions for 2024 -->
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/yearly-activity?username=aastikab&theme=2077" alt="2024 Contributions" />
     </td>
   </tr>
 </table>
+
 
 
 
