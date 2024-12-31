@@ -69,12 +69,13 @@ Web app simplifying sustainable living with actionable insights for eco-friendly
       <img src="https://github.com/user-attachments/assets/785be6f0-ff4b-4db2-b314-b3ab1f5a88aa" alt="Kakashi Neovim GIF" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastikab&layout=compact&langs_count=15&show_icons=true&locale=en&theme=radical" alt="Top Languages" />
+      <!-- Contributions Graph for 2024 -->
+      <img src="https://github-readme-stats.vercel.app/api?username=aastikab&count_private=true&show_icons=true&hide_title=true&theme=radical" alt="GitHub Contributions for 2024" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <!-- Replace with a custom graphic or manually updated streak image -->
+      <!-- Replace with your own custom streak image or GitHub contribution graph -->
       <img src="https://streak-stats.demolab.com/?user=aastikab&theme=chartreuse-dark" alt="GitHub Streak for 2024" />
     </td>
   </tr>
@@ -85,7 +86,6 @@ Web app simplifying sustainable living with actionable insights for eco-friendly
   </tr>
 </table>
 
-</table>
 
 
 ✨ *Empowering diversity and inclusivity in technology, one line of code at a time.*  
