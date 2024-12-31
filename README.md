@@ -72,7 +72,7 @@ Web app simplifying sustainable living with actionable insights for eco-friendly
   </tr>
   <tr>
     <td align="center">
-      <!-- Total Contributions for 2024 (Visual representation) -->
+      <!-- Total Contributions for 2024 -->
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/yearly-activity?username=aastikab&theme=2077" alt="2024 Contributions" />
     </td>
   </tr>
