@@ -69,7 +69,7 @@ Web app simplifying sustainable living with actionable insights for eco-friendly
       <!-- Longest Streak Ever -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aastikab&theme=chartreuse-dark&hide_border=true" alt="Longest Streak Ever" />
 
-    </td>
+    
  
 </table>
 
