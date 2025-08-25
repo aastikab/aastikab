@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm Aastika Banstola </h1>
-<h3 align="center"> 💻 Empowering Women in Tech | Software Developer | Innovator 💡 </h3>
+<h3 align="center"> Empowering Women in Tech | Software Developer | Innovator </h3>
 
 
 ---
@@ -51,4 +51,4 @@
 
 
 
-✨ *Empowering diversity and inclusivity in technology, one line of code at a time.*  
+*Empowering diversity and inclusivity in technology, one line of code at a time.*  
