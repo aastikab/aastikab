@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aastika-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/aastikab" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github" alt="GitHub"></a>
-<a href="mailto:abanstola07@my.fisk.edu"><img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:aastikabanstola@gmail.com"><img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
