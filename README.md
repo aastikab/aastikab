@@ -10,7 +10,7 @@
 ### About Me
 - I’m currently enhancing my skills in **Machine Learning** and **AI-Powered Solutions**.  
 - Passionate about leveraging **Technology for Diversity and Inclusion**.   
-- Junior at Fisk University majoring in **Computer Science**.  
+
 
 ---
 
