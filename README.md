@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Women_in_Tech-💜-A855F7?style=for-the-badge" alt="Women in Tech" />
-  <img src="https://img.shields.io/badge/Fisk_×_Vanderbilt-'26-7C3AED?style=for-the-badge" alt="Fisk x Vanderbilt '26" />
+  <img src="https://img.shields.io/badge/Fisk_×_Vanderbilt-'26-7C3AED?style=for-the-badge" alt="Fisk x Vanderbilt CS'26" />
   <img src="https://img.shields.io/badge/Open_to-New_Grad_Roles-EC4899?style=for-the-badge" alt="Open to new grad roles" />
 </p>
 
