@@ -4,7 +4,7 @@
 
 ```ts
 const aastika = {
-  school:     "Fisk University (HBCU) · CS '26 · 3.91 GPA",
+  school:     "Fisk University (HBCU), Vanderbilt University · CS '26 · 3.91 GPA",
   building:   "2+ years shipping software · 5 internships · 1 externship · 6x hackathon winner",
   experience: ["Salesforce", "Georgia Tech (CollabNext)", "Bruce Technologies", "Fisk MSIPP"],
   proudOf:    "an AI audit agent at Salesforce: 68% → 98% accuracy, 30s → 2s lookups",
