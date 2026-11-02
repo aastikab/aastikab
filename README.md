@@ -1,54 +1,22 @@
-<h1 align="center"> Hi there 👋, I'm Aastika Banstola </h1>
-<h3 align="center"> Empowering Women in Tech | Software Developer | Innovator </h3>
-
-
----
-
-
-
-
-### About Me
-- I’m currently enhancing my skills in **Machine Learning** and **AI-Powered Solutions**.  
-- Passionate about leveraging **Technology for Diversity and Inclusion**.   
-
-
----
-
-### Connect with Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/aastika-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://github.com/aastikab" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github" alt="GitHub"></a>
-<a href="mailto:aastikabanstola@gmail.com"><img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Aastika+%F0%9F%91%8B;Woman+in+tech+%C2%B7+HBCU+engineer;2%2B+years+%C2%B7+5+internships+%C2%B7+1+externship;I+build+AI+agents+that+get+it+right;Fisk+'26+%C2%B7+Open+to+new+grad+roles" alt="Typing intro" />
 </p>
 
----
+```ts
+const aastika = {
+  school:     "Fisk University (HBCU) · CS '26 · 3.91 GPA",
+  building:   "2+ years shipping software · 5 internships · 1 externship · 6x hackathon winner",
+  experience: ["Salesforce", "Georgia Tech (CollabNext)", "Bruce Technologies", "Fisk MSIPP"],
+  proudOf:    "an AI audit agent at Salesforce: 68% → 98% accuracy, 30s → 2s lookups",
+  obsessed:   ["AI agents", "MCP", "making LLMs check their own work"],
+  community:  ["👩🏽‍💻 Rewriting the Code", "CodePath Fellow", "TA for ~120 CS students"],
+  status:     "🟢 open to new-grad SWE / AI roles",
+};
+```
 
-### Technologies & Tools:
-<p align="left">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<p align="center">
+  <img src="https://img.shields.io/badge/Women_in_Tech-💜-7C3AED?style=for-the-badge" alt="Women in Tech">
+  <img src="https://img.shields.io/badge/HBCU-Fisk_University-0B3D91?style=for-the-badge" alt="HBCU Fisk">
+  <a href="https://www.linkedin.com/in/aastika-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:aastikabanstola@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
----
-
-### Fun Facts About Me:
-- I love mentoring young women in tech and promoting inclusivity in software engineering.  
-- I'm making waves in tech globally.  
-- Constantly inspired to build innovative solutions that make a difference.  
-
-
-
-
-
-
-
-
-*Empowering diversity and inclusivity in technology, one line of code at a time.*  
